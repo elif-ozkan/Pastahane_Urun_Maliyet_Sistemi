@@ -1,0 +1,11 @@
+C:\Users\elifo\Desktop\PROJELERİM\Pastane Ürün Maliyetlendirme Sistemi\Pastane Ürün Maliyetlendirme Sistemi\bin\Debug\Pastane Ürün Maliyetlendirme Sistemi.exe.config
+C:\Users\elifo\Desktop\PROJELERİM\Pastane Ürün Maliyetlendirme Sistemi\Pastane Ürün Maliyetlendirme Sistemi\bin\Debug\Pastane Ürün Maliyetlendirme Sistemi.exe
+C:\Users\elifo\Desktop\PROJELERİM\Pastane Ürün Maliyetlendirme Sistemi\Pastane Ürün Maliyetlendirme Sistemi\bin\Debug\Pastane Ürün Maliyetlendirme Sistemi.pdb
+C:\Users\elifo\Desktop\PROJELERİM\Pastane Ürün Maliyetlendirme Sistemi\Pastane Ürün Maliyetlendirme Sistemi\obj\Debug\Pastane Ürün Maliyetlendirme Sistemi.csproj.AssemblyReference.cache
+C:\Users\elifo\Desktop\PROJELERİM\Pastane Ürün Maliyetlendirme Sistemi\Pastane Ürün Maliyetlendirme Sistemi\obj\Debug\Pastane Ürün Maliyetlendirme Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifo\Desktop\PROJELERİM\Pastane Ürün Maliyetlendirme Sistemi\Pastane Ürün Maliyetlendirme Sistemi\obj\Debug\Pastane_Ürün_Maliyetlendirme_Sistemi.Form1.resources
+C:\Users\elifo\Desktop\PROJELERİM\Pastane Ürün Maliyetlendirme Sistemi\Pastane Ürün Maliyetlendirme Sistemi\obj\Debug\Pastane_Ürün_Maliyetlendirme_Sistemi.Properties.Resources.resources
+C:\Users\elifo\Desktop\PROJELERİM\Pastane Ürün Maliyetlendirme Sistemi\Pastane Ürün Maliyetlendirme Sistemi\obj\Debug\Pastane Ürün Maliyetlendirme Sistemi.csproj.GenerateResource.cache
+C:\Users\elifo\Desktop\PROJELERİM\Pastane Ürün Maliyetlendirme Sistemi\Pastane Ürün Maliyetlendirme Sistemi\obj\Debug\Pastane Ürün Maliyetlendirme Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\elifo\Desktop\PROJELERİM\Pastane Ürün Maliyetlendirme Sistemi\Pastane Ürün Maliyetlendirme Sistemi\obj\Debug\Pastane Ürün Maliyetlendirme Sistemi.exe
+C:\Users\elifo\Desktop\PROJELERİM\Pastane Ürün Maliyetlendirme Sistemi\Pastane Ürün Maliyetlendirme Sistemi\obj\Debug\Pastane Ürün Maliyetlendirme Sistemi.pdb
